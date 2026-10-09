@@ -7,3 +7,4 @@ PocketRescue is a planned local-first tool: import an exported Pocket archive, s
 Decision rule: development begins only if 20 people register interest by **November 10, 2026**; otherwise the project is dropped and registrants are notified by email.
 
 Live page: https://alapha888.github.io/pocketrescue-waitlist/
+
